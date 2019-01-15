@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<PlatformSettings>
+  <SyncPaths>
+
+    <PathInfo Path="%GAME%\Localization\" Wildcard="Coalesced.*" bIsRecursive="false" bIsForTarget="true" />
+    <PathInfo Path="%GAME%\Config\PS3\Cooked\" Wildcard="Coalesced.ini" bIsRecursive="false" bIsForTarget="true" />
+    <PathInfo Path="%GAME%\CookedPS3\" Wildcard="*.tfc" bIsRecursive="false" bIsForTarget="true" />
+    <PathInfo Path="%GAME%\CookedPS3\" Wildcard="*.xxx" bIsRecursive="false" bIsForTarget="true" />
+    <PathInfo Path="%GAME%\CookedPS3\" Wildcard="*.uncompressed_size" bIsRecursive="false" bIsForTarget="true" />
+    <PathInfo Path="Binaries\PS3\Bink\" Wildcard="*.bin" bIsRecursive="false" bIsForTarget="true" />
+    <PathInfo Path="Binaries\PS3\SPU\" Wildcard="*.elf" bIsRecursive="false" bIsForTarget="true" />
+    <PathInfo Path="Binaries\PS3\Save\" Wildcard="*.*" bIsRecursive="false" bIsForTarget="true" />
+    <PathInfo Path="Binaries\PS3\SPU\" Wildcard="*.sprx" bIsRecursive="false" bIsForTarget="true" />
+
+    <!-- Files for BluRay burning -->
+    <PathInfo Path="%GAME%\Build\PS3\BluRay\" Wildcard="*.PNG"  bIsRecursive="false" bIsForTarget="false" />
+    <PathInfo Path="%GAME%\Build\PS3\BluRay\" Wildcard="*.PAM"  bIsRecursive="false" bIsForTarget="false" />
+    <PathInfo Path="%GAME%\Build\PS3\BluRay\" Wildcard="*.gp3"  bIsRecursive="false" bIsForTarget="false" />
+
+    <PathInfo Path="Binaries\" Wildcard="%GAME%-PS3*.elf" bIsRecursive="false" bIsForTarget="false" />
+    <PathInfo Path="Binaries\" Wildcard="%GAME%-PS3*.xelf" bIsRecursive="false" bIsForTarget="false" />
+    <PathInfo Path="Binaries\" Wildcard="%GAME%-PS3*.map" bIsRecursive="false" bIsForTarget="false" />
+
+
+    <PathInfo Path="Binaries\PS3\" Wildcard="PS3Run_Epic.exe" bIsRecursive="false" bIsForTarget="false" />
+    <PathInfo Path="Binaries\PS3\" Wildcard="PS3Tools.dll" bIsRecursive="false" bIsForTarget="false" />
+    <PathInfo Path="Binaries\PS3\" Wildcard="formathdd.bat" bIsRecursive="false" bIsForTarget="false" />
+
+    <PathInfo Path="Binaries\" Wildcard="ConsoleInterface.dll" bIsRecursive="false" bIsForTarget="false" />
+    <PathInfo Path="Binaries\" Wildcard="CookerTools.dll" bIsRecursive="false" bIsForTarget="false" />
+    <PathInfo Path="Binaries\" Wildcard="UnrealConsole.exe" bIsRecursive="false" bIsForTarget="false" />
+    <PathInfo Path="Binaries\" Wildcard="UnrealFrontend.exe" bIsRecursive="false" bIsForTarget="false" />
+    <PathInfo Path="Binaries\" Wildcard="UnrealFrontend_cfg.xml" bIsRecursive="false" bIsForTarget="false" />
+
+    <PathInfo Path="Binaries\" Wildcard="MSVC*.dll" bIsRecursive="false" bIsForTarget="false" />
+    <PathInfo Path="Binaries\" Wildcard="Microsoft*.manifest" bIsRecursive="false" bIsForTarget="false" />
+
+    <PathInfo Path="%GAME%\Movies\" Wildcard="*.bik" bIsRecursive="false" bIsForTarget="true" >
+      <FileFilters>
+        <FileFilter Name="*_PC.bik"/>
+        <FileFilter Name="*_Xbox360.bik"/>
+      </FileFilters>
+    </PathInfo>
+    <PathInfo Path="%GAME%\Movies\" Wildcard="*.txt" bIsRecursive="false" bIsForTarget="true" >
+      <FileFilters>
+        <FileFilter Name="*_PC.txt"/>
+        <FileFilter Name="*_Xbox360.txt"/>
+      </FileFilters>
+    </PathInfo>
+
+  </SyncPaths>
+</PlatformSettings>

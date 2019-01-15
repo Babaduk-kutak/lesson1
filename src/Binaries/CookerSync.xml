@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<SharedSettings>
+  <SyncPaths>
+
+    <PathInfo Path="Binaries\" Wildcard="build.properties" bIsRecursive="false" bIsForTarget="false" />
+    <PathInfo Path="Engine\Splash\%PLATFORM%\" Wildcard="*.*" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false" />
+    <PathInfo Path="Engine\Stats\" Wildcard="*.*" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true" />
+    <PathInfo Path="%GAME%\Splash\%PLATFORM%\" Wildcard="Splash.bmp" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true" />
+    <PathInfo Path="%GAME%\Splash\%PLATFORM%\" Wildcard="EdSplash.bmp" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    <PathInfo Path="%GAME%\Splash\%PLATFORM%\" Wildcard="*.exe" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false" />
+    <PathInfo Path="%GAME%\Splash\%PLATFORM%\" Wildcard="*.url" bIsRecursive="false" bIsForTarget="true" />
+    <PathInfo Path="%GAME%\Demos\" Wildcard="*.demo" bIsRecursive="false" bIsForTarget="true" />
+
+  </SyncPaths>
+</SharedSettings>

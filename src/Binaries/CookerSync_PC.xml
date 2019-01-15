@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<PlatformSettings>
+  <SyncPaths>
+
+    <PathInfo Path="%GAME%\CookedPC\" Wildcard="*.*" bIsRecursive="true" bIsForTarget="true" >
+      <FileFilters>
+        <FileFilter Name="save.tmp"/>
+        <FileFilter Name="RefShaderCache-PC-D3D-SM4.upk"/>        
+        <FileFilter Name="A_*"/>
+	<FileFilter Name="CH_Immortals.upk"/>    
+	<FileFilter Name="CH_IronGuard_Female.upk"/>
+	<FileFilter Name="CH_IronGuard_Male2.upk"/>
+	<FileFilter Name="CH_Krall_Cine.upk"/>
+	<FileFilter Name="CH_Krall_Male.upk"/>
+	<FileFilter Name="CH_Necris_Female_Cine.upk"/>
+	<FileFilter Name="CH_Necris_Male1.upk"/>
+	<FileFilter Name="CH_RedTeam.upk"/>
+	<FileFilter Name="CH_RTeam_Female.upk"/>
+	<FileFilter Name="CH_RTeam_Female_Cin.upk"/>
+	<FileFilter Name="CH_RTeam_Male.upk"/>
+	<FileFilter Name="CH_TwinSouls_Cine.upk"/>	
+	<FileFilter Name="CH_Corrupt_Arms.upk"/>
+	<FileFilter Name="CH_Corrupt_Arms_SF.upk"/>
+	<FileFilter Name="CH_Corrupt_Male.upk"/>
+	<FileFilter Name="CH_Corrupt_Male_SF.upk"/>
+	<FileFilter Name="CH_IronGuard_Female.upk"/>
+	<FileFilter Name="CH_IronGuard_Female_SF.upk"/>
+	<FileFilter Name="CH_IronGuard_Male2_SF.upk"/>
+	<FileFilter Name="CH_Krall_Arms.upk"/>
+	<FileFilter Name="CH_Krall_Arms_SF.upk"/>
+	<FileFilter Name="CH_Krall_Male_SF.upk"/>
+	<FileFilter Name="CH_Necris_Arms.upk"/>
+	<FileFilter Name="CH_Necris_Arms_SF.upk"/>
+	<FileFilter Name="CH_Necris_Female.upk"/>
+	<FileFilter Name="CH_Necris_Female2.upk"/>
+	<FileFilter Name="CH_Necris_Female2_SF.upk"/>
+	<FileFilter Name="CH_Necris_Female_SF.upk"/>
+	<FileFilter Name="CH_Necris_Male1_SF.upk"/>
+	<FileFilter Name="CH_RTeam_Female_SF.upk"/>
+	<FileFilter Name="CH_RTeam_Male_SF.upk"/>
+	<FileFilter Name="CH_TwinSouls_Arms.upk"/>
+	<FileFilter Name="CH_TwinSouls_Arms_SF.upk"/>
+	<FileFilter Name="CH_Corrupt_Cine.upk"/>
+	<FileFilter Name="CH_MiningBot.upk"/>
+	<FileFilter Name="CH_Necris.upk"/>
+      </FileFilters>
+    </PathInfo>
+    <PathInfo Path="%GAME%\CookedPC\" Wildcard="RefShaderCache-PC-D3D-SM4.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+
+    <PathInfo Path="%GAME%\CookedPC\" Wildcard="A_*" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" />
+	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Immortals.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />    
+  	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_IronGuard_Female.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\" Wildcard="CH_IronGuard_Male2.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Krall_Cine.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Krall_Male.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Necris_Female_Cine.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Necris_Male1.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\" Wildcard="CH_RedTeam.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_RTeam_Female.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_RTeam_Female_Cin.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_RTeam_Male.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_TwinSouls_Cine.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />	
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Corrupt_Arms.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Corrupt_Arms_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Corrupt_Male.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Corrupt_Male_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_IronGuard_Female.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_IronGuard_Female_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_IronGuard_Male2_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Krall_Arms.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Krall_Arms_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Krall_Male_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Necris_Arms.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Necris_Arms_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Necris_Female.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Necris_Female2.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Necris_Female2_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Necris_Female_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Necris_Male1_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_RTeam_Female_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_RTeam_Male_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_TwinSouls_Arms.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_TwinSouls_Arms_SF.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Corrupt_Cine.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_MiningBot.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+	<PathInfo Path="%GAME%\CookedPC\Characters\" Wildcard="CH_Necris.upk" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    
+    <PathInfo Path="Binaries\" Wildcard="LTCG-%GAME%.exe" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false" />
+    <PathInfo Path="Binaries\" Wildcard="LTCG-%GAME%_RunSeekfree.bat" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\Lib\ReleaseLTCG\" Wildcard="LTCG-%GAME%.pdb" bIsRecursive="true" bIsForTarget="false" bIsForDemo="false"  />
+
+    <PathInfo Path="Binaries\" Wildcard="AutoReporter.exe" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="AutoReporter.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="AutoReporter.XmlSerializers.dll" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />     
+    <PathInfo Path="Binaries\" Wildcard="ConsoleInterface.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="ConsoleInterface.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="CookerSync.exe" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false"  />    
+    <PathInfo Path="Binaries\" Wildcard="CookerSync.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="CookerSync.xml" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false"  />  
+    <PathInfo Path="Binaries\" Wildcard="CookerSync_PC.xml" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="CookerSync_PS3.xml" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false"  />  
+    <PathInfo Path="Binaries\" Wildcard="CookerSync_Xbox360.xml" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />      
+    <PathInfo Path="%GAME%\Config\" Wildcard="Cooker*.xml" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+    <PathInfo Path="Binaries\" Wildcard="CookerTools.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="CookerTools.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="DebuggerInterface.dll" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="DebuggerInterface.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="ISCopyFiles.exe" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+    <PathInfo Path="Binaries\" Wildcard="ISCopyFiles.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="PackageDiffFrontend.exe" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="PackageDiffFrontend.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="RemoteDebugger.exe" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="RemoteDebugger.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+
+    <PathInfo Path="Binaries\" Wildcard="Stats.dll" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="Stats.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="StatsComparison.exe" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="StatsComparison.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="StatsThreshold.exe" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="StatsThreshold.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />  
+    <PathInfo Path="Binaries\" Wildcard="StatsViewer.exe" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="StatsViewer.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />      
+
+    <PathInfo Path="Binaries\" Wildcard="ueScriptProfiler.exe" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />   
+    <PathInfo Path="Binaries\" Wildcard="ueScriptProfiler.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="UnrealConsole.exe" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    <PathInfo Path="Binaries\" Wildcard="UnrealConsole.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="UnrealFrontEnd.exe" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    <PathInfo Path="Binaries\" Wildcard="UnrealFrontEnd.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />      
+    <PathInfo Path="Binaries\" Wildcard="UnrealFrontend*.xml" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    
+    <PathInfo Path="Binaries\" Wildcard="binkw32.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+
+    <PathInfo Path="Binaries\" Wildcard="FonixTtsDt*.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  /> 
+
+    <PathInfo Path="Binaries\FaceFX\" Wildcard="*.*" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="FxGraphLayout.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+    <PathInfo Path="Binaries\" Wildcard="libresample.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />   
+
+    <PathInfo Path="Binaries\" Wildcard="NxCharacter.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />        
+    <PathInfo Path="Binaries\" Wildcard="NxCharacter.dll.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />    
+    <PathInfo Path="Binaries\" Wildcard="NxCooking.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />        
+    <PathInfo Path="Binaries\" Wildcard="NxCooking.dll.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="PhysXCore.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />        
+    <PathInfo Path="Binaries\" Wildcard="PhysXCore.dll.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\PhysXLocal\" Wildcard="PhysXLoader.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+    <PathInfo Path="Binaries\PhysXLocal\" Wildcard="PhysXLoader.dll.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+
+    <PathInfo Path="Binaries\" Wildcard="OpenAL32.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />        
+    <PathInfo Path="Binaries\" Wildcard="OpenAL32.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false" />
+    <PathInfo Path="Binaries\" Wildcard="wrap_oal.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+    <PathInfo Path="Binaries\" Wildcard="wrap_oal.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />     
+    
+    <PathInfo Path="Binaries\" Wildcard="ogg.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+    <PathInfo Path="Binaries\" Wildcard="ogg.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />     
+    <PathInfo Path="Binaries\" Wildcard="vorbis.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+    <PathInfo Path="Binaries\" Wildcard="vorbis.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  /> 
+    <PathInfo Path="Binaries\" Wildcard="vorbisenc.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+    <PathInfo Path="Binaries\" Wildcard="vorbisenc.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\" Wildcard="vorbisfile.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+    <PathInfo Path="Binaries\" Wildcard="vorbisfile.pdb" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />     
+    
+    <PathInfo Path="Binaries\" Wildcard="wxdockitu.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+    <PathInfo Path="Binaries\" Wildcard="wxmsw262u.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+    
+    <PathInfo Path="Binaries\" Wildcard="EpicInternal.txt" bIsRecursive="false" bIsForTarget="false" bIsForDemo="false"  />
+    <PathInfo Path="Binaries\wxRC\" Wildcard="*.*" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" >
+          <FileFilters>
+                  <FileFilter Name="GearRemoteControl.xrc"/>
+                  <FileFilter Name="WarfareRemoteControl.xrc"/>                  
+          </FileFilters>
+    </PathInfo>     
+    <PathInfo Path="Binaries\wxRes\" Wildcard="*.*" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" />
+    <PathInfo Path="Binaries\EditorRes\" Wildcard="*.*" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" />
+    <PathInfo Path="Binaries\Windows\" Wildcard="*.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    <PathInfo Path="Binaries\Windows\" Wildcard="*.exe" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+    <PathInfo Path="Binaries\PS3\" Wildcard="PS3Tools.dll" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" />
+
+    <!-- modders will need the shader files, however 
+	@TODO: We should test without shader files for a shipping game to make sure all shaders
+	needed for ship are compiled for all possible machines -->
+    <PathInfo Path="Engine\Shaders\" Wildcard="*.usf" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+
+    <PathInfo Path="Engine\Config\" Wildcard="*.*" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true"  />
+    <PathInfo Path="%GAME%\Config\" Wildcard="Default*.ini" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true" />
+   
+    <PathInfo Path="Engine\Localization\" Wildcard="*.INT" bIsRecursive="true" bIsForTarget="true" bIsForDemo="true" />
+    <PathInfo Path="Engine\Localization\" Wildcard="*.DEU" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" >
+          <FileFilters>
+                  <FileFilter Name="PS3*"/>
+          </FileFilters>
+    </PathInfo>  
+    <PathInfo Path="Engine\Localization\" Wildcard="*.ESN" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" >    
+          <FileFilters>
+                  <FileFilter Name="PS3*"/>
+          </FileFilters>
+    </PathInfo>  
+    <PathInfo Path="Engine\Localization\" Wildcard="*.FRA" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" >
+          <FileFilters>
+                  <FileFilter Name="PS3*"/>
+          </FileFilters>
+    </PathInfo>  
+    <PathInfo Path="Engine\Localization\" Wildcard="*.ITA" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" >
+          <FileFilters>
+                  <FileFilter Name="PS3*"/>
+          </FileFilters>
+    </PathInfo> 
+    <PathInfo Path="Engine\Localization\" Wildcard="*.RUS" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" >
+          <FileFilters>
+                  <FileFilter Name="PS3*"/>
+          </FileFilters>
+    </PathInfo>     
+    <PathInfo Path="Engine\Localization\" Wildcard="*.JPN" bIsRecursive="true" bIsForTarget="false" bIsForDemo="false" />
+
+    <PathInfo Path="%GAME%\Localization\INT\" Wildcard="Readme.rtf" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false"  />
+    <PathInfo Path="%GAME%\Localization\DEU\" Wildcard="Readme.rtf" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false"  />
+    <PathInfo Path="%GAME%\Localization\ESN\" Wildcard="Readme.rtf" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false"  />
+    <PathInfo Path="%GAME%\Localization\FRA\" Wildcard="Readme.rtf" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false"  />  
+    <PathInfo Path="%GAME%\Localization\ITA\" Wildcard="Readme.rtf" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false"  />  
+    <PathInfo Path="%GAME%\Localization\RUS\" Wildcard="Readme.rtf" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false"  />      
+    <PathInfo Path="%GAME%\Localization\INT\" Wildcard="ReadmeDemo.rtf" bIsRecursive="false" bIsForTarget="false" bIsForDemo="true"  />
+
+    <PathInfo Path="%GAME%\Localization\" Wildcard="*.INT" bIsRecursive="true" bIsForTarget="true" bIsForDemo="true" >
+      <FileFilters>
+        <FileFilter Name="War-*"/>
+        <FileFilter Name="PS3*"/>
+      </FileFilters>      
+    </PathInfo> 
+    <PathInfo Path="%GAME%\Localization\" Wildcard="War-*.INT" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" />
+    <PathInfo Path="%GAME%\Localization\" Wildcard="*.DEU" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" >
+      <FileFilters>
+        <FileFilter Name="PS3*"/>
+      </FileFilters>
+    </PathInfo>
+    <PathInfo Path="%GAME%\Localization\" Wildcard="*.ESN" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" >
+      <FileFilters>
+        <FileFilter Name="PS3*"/>
+      </FileFilters>
+    </PathInfo>
+    <PathInfo Path="%GAME%\Localization\" Wildcard="*.FRA" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" >
+      <FileFilters>
+        <FileFilter Name="PS3*"/>
+      </FileFilters>
+    </PathInfo>
+    <PathInfo Path="%GAME%\Localization\" Wildcard="*.ITA" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" >
+      <FileFilters>
+        <FileFilter Name="PS3*"/>
+      </FileFilters>
+    </PathInfo>
+    <PathInfo Path="%GAME%\Localization\" Wildcard="*.RUS" bIsRecursive="true" bIsForTarget="true" bIsForDemo="false" >
+      <FileFilters>
+        <FileFilter Name="PS3*"/>
+      </FileFilters>
+    </PathInfo>
+    
+    <PathInfo Path="%GAME%\Movies\" Wildcard="*.*" bIsRecursive="false" bIsForTarget="true" bIsForDemo="true" >
+      <FileFilters>
+        <FileFilter Name="*_PS3.bik"/>
+        <FileFilter Name="HDD_PS3_*"/>
+        <FileFilter Name="*_Xbox360.bik"/>
+        <FileFilter Name="UTCin-*"/>
+      </FileFilters>
+    </PathInfo>
+
+    <PathInfo Path="%GAME%\Movies\" Wildcard="UTCin-*.*" bIsRecursive="false" bIsForTarget="true" bIsForDemo="false" >
+      <FileFilters>
+        <FileFilter Name="*_PS3.bik"/>
+        <FileFilter Name="HDD_PS3_*"/>
+        <FileFilter Name="*_Xbox360.bik"/>
+      </FileFilters>
+    </PathInfo>
+
+  </SyncPaths>
+</PlatformSettings>

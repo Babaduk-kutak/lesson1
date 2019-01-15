@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<CookerSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  UserSettingsDirectory="Unreal Tournament 3">
+  <Platforms>
+    <string>PS3</string>
+  </Platforms>
+  <Games>
+    <string>UTGame</string>
+  </Games>
+  <PCConfigs>
+    <string>Release</string>
+  </PCConfigs>
+  <ConsoleConfigs>
+    <string>Release</string>
+  </ConsoleConfigs>
+</CookerSettings>
